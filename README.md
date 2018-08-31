@@ -2,7 +2,7 @@
 
 |标号|标题                       |代码(C++/Java)|
 |----|-------------------------|-------------|
-|1001|A+B Format               |             |
+|1001|A+B Format               | [1001-C++](./Answer/1001.cpp)            |
 |1002|A+B for Polynomials      |             |
 |1003|Emergency                |             |
 |1004|Counting Leaves          |             |
