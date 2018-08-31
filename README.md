@@ -6,7 +6,7 @@
 |1002|A+B for Polynomials      |             |
 |1003|Emergency                |             |
 |1004|Counting Leaves          |             |
-|1005|Spell It Right           |             |
+|1005|Spell It Right           |   [1005-C++](./Answer/1005.cpp)           |
 |1006|Sign In and Sign Out     |             |
 |1007|Maximum Subsequence Sum  |             |
 |1008|Elevator                 |             |
